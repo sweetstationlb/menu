@@ -13,7 +13,10 @@ body {
   font-weight: normal;
   font-style: normal;
 }
-
+.special-char {
+  font-family: 'Times New Roman', serif; /* Specify the font for the special character */
+  font-style: normal; /* Set the style for the special character */
+}
 a {
   text-decoration: none;
   color: #fff;
